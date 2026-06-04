@@ -24,7 +24,7 @@ export function Hero() {
       <div className="relative container mx-auto px-6 pt-24 z-20">
         <div className="max-w-2xl">
           <p className="text-gold font-medium tracking-widest uppercase text-sm mb-4">
-            Premium Italian Experience
+            Premium French Experience
           </p>
           <h1 className="font-serif text-5xl md:text-7xl text-primary-foreground leading-tight mb-6 text-balance">
             Discover Italy in Unparalleled Luxury
